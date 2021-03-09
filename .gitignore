@@ -1,0 +1,28 @@
+# Eclipse
+.project
+.settings/
+.metadata
+bin/
+
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Maven
+target/
+
+# Log file
+*.log
+
+# Java annotation processor (APT)
+.factorypath
+
+# Annotation Processing
+.apt_generated/
+.apt_generated_test/
+
+# Code Recommenders
+.recommenders/
+
+# Local Eclipse launch configurations
+*.launch
